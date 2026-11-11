@@ -14,7 +14,7 @@ The learning goals of this lab are:
 Files
 -----
 
-The following files are already provides:
+The following files are already provided:
 
 - `models/simpy_m_m_c.py`: Simple M/M/c queue simulation using the `SimPy` library.
 - `visualizations/performance_plots.py`: Functions to create the different plots.
